@@ -1,4 +1,5 @@
-## About[简体中文](./README_CN.md)
+## About
+[中文](./README_CN.md)|[English](./README.md)   
 A simple python project that uses open api to crawl and transform data, store it in a database, and then provide an api interface for data query and analysis.
 
 ## Tech Stack

@@ -1,4 +1,5 @@
-## 关于[English](./README.md)
+## 关于
+[中文](./README_CN.md)|[English](./README.md)   
 一个简单的python项目，使用openapi进行数据抓取和转换，存储到数据库中，再提供数据查询和分析的api接口。
 
 
