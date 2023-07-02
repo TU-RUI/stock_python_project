@@ -20,11 +20,11 @@ The project uses MySQL service to store stock data, if you don't have mysql serv
 ### Configure environment variables 
 Project runs need to configure APIKEY and MySQL environment variables on the server
 ```
-    export DB_HOST_PORT = 'database ip and port, eg. 192.168.3.14:3306' 
-    export DB_NAME = 'database name' 
-    export DB_USER = 'database username' 
-    export DB_PASSWORD = 'database user password' 
-    export API_KEY = 'APIKEY applied in the first step' 
+export DB_HOST_PORT = 'database ip and port, eg. 192.168.3.14:3306' 
+export DB_NAME = 'database name' 
+export DB_USER = 'database username' 
+export DB_PASSWORD = 'database user password' 
+export API_KEY = 'APIKEY applied in the first step' 
 ```
 
 ### Crawl data 
